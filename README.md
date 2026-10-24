@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Arko%20Mondal&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Python%20Developer%20%7C%20Automation&descSize=17&descAlignY=60" alt="Arko Mondal banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Arko%20Mondal&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20Python%20Developer&descSize=17&descAlignY=60" alt="Arko Mondal banner" width="100%" />
 
 <a href="https://github.com/Lonelywolfarko">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+reliable%2C+data-driven+systems;Python+%C2%B7+SQL+%C2%B7+ETL%2FELT+%C2%B7+Automation;8%2B+months+of+startup+software+experience;Turning+manual+workflows+into+automated+pipelines" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+reliable%2C+data-driven+systems;Python+%C2%B7+SQL+%C2%B7+ETL%2FELT+%C2%B7+Automation;Turning+raw+data+into+clear+insights;Data+Analysis+%C2%B7+Pandas+%C2%B7+SQL+%C2%B7+Reporting;8%2B+months+of+startup+software+experience;Turning+manual+workflows+into+automated+pipelines" alt="Typing animation" />
 </a>
 
 <br/>
@@ -23,13 +23,14 @@
 
 ## 👋 About Me
 
-I'm an **Electronics & Communication Engineering undergraduate (graduating 2027)** with **8+ months of software development experience at a startup**. I'm moving toward **Data Engineering**, combining a solid Python and automation background with growing depth in SQL, databases, and ETL/ELT design.
+I'm an **Electronics & Communication Engineering undergraduate (graduating 2027)** with **8+ months of software development experience at a startup**. I'm moving toward **Data Engineering** and **Data Analysis**, combining a solid Python and automation background with growing depth in SQL, databases, data cleaning, and ETL/ELT design.
 
 I like practical problems: taking a slow, repetitive, manual workflow and turning it into something reliable and automated.
 
 | | |
 |---|---|
 | 🎯 **Primary focus** | Data Engineering |
+| 📈 **Data analysis** | Data cleaning · Exploratory analysis · SQL querying · Turning data into insights |
 | 💪 **Core strengths** | Python development · Browser automation · Web scraping |
 | 🔎 **Also interested in** | Technical data analysis · Data platforms |
 | 🎓 **Education** | B.E. in Electronics & Communication Engineering (2027) |
@@ -44,6 +45,7 @@ I like practical problems: taking a slow, repetitive, manual workflow and turnin
 | Area | Tools |
 |:--|:--|
 | **Languages & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
 | **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-64748B?style=flat-square) |
@@ -72,6 +74,20 @@ Worked on software and web projects in a startup environment, delivering against
 
 <br/>
 
+## 📈 Data Analysis Approach
+
+Good analysis starts with trustworthy data. Here is how I approach turning raw data into something people can act on:
+
+| Step | What I do | Tools |
+|:--|:--|:--|
+| **1. Collect** | Gather data from files, databases, APIs, and websites, automating repetitive collection | Python · Playwright · REST APIs |
+| **2. Clean** | Fix missing values, duplicates, and inconsistent formats so results can be trusted | Pandas · NumPy |
+| **3. Query** | Slice, join, and aggregate data to answer specific business questions | SQL · MySQL · PostgreSQL |
+| **4. Explore** | Look for patterns, trends, and outliers before drawing conclusions | Pandas · NumPy |
+| **5. Communicate** | Summarize findings clearly so decisions can be made quickly | Clear reports and summaries |
+
+<br/>
+
 ## 🔄 How I Think About Data Pipelines
 
 The architecture I'm building toward as I move into Data Engineering:
@@ -90,12 +106,14 @@ flowchart LR
 
 ## 🎯 Current Focus
 
-- [x] Python development and browser automation in a production-style workflow
-- [ ] Writing efficient SQL and strengthening database fundamentals
-- [ ] Building Python-based data cleaning and transformation workflows
-- [ ] Designing maintainable ETL/ELT pipelines with Airflow
-- [ ] Learning data warehousing and cloud data platforms
-- [ ] Strengthening software engineering practices through hands-on projects
+-  Python development and browser automation in a production-style workflow
+-  Writing efficient SQL and strengthening database fundamentals
+-  Building Python-based data cleaning and transformation workflows
+-  Practicing exploratory data analysis with SQL and Pandas on real datasets
+-  Learning data visualization and reporting to communicate insights clearly
+-  Designing maintainable ETL/ELT pipelines with Airflow
+-  Learning data warehousing and cloud data platforms
+-  Strengthening software engineering practices through hands-on projects
 
 <br/>
 
@@ -191,7 +209,7 @@ Play in your browser: [2048](https://play2048.co/) · [Tetris](https://tetris.co
 
 ## 🤝 Let's Connect
 
-I'm looking to connect with engineers, data professionals, and teams working on **data platforms, automation, and software engineering**. If you're hiring for a Data Engineering internship or entry-level role, I'd love to talk.
+I'm looking to connect with engineers, data professionals, and teams working on **data platforms, automation, and software engineering**. If you're hiring for a Data Engineering or Data Analyst internship or entry-level role, I'd love to talk.
 
 📧 **Email:** arko03472@gmail.com *(copy it if the button doesn't open your mail app)*
 
