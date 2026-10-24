@@ -23,9 +23,9 @@
 
 ## 👋 About Me
 
-I'm an **Electronics & Communication Engineering undergraduate (graduating 2027)** with **8+ months of software development experience at a startup**. I'm moving toward **Data Engineering** and **Data Analysis**, combining a solid Python and automation background with growing depth in SQL, databases, data cleaning, and ETL/ELT design.
+I am struggling with 99% caffeine,1% syntax error "418". Sitting before screen occasionally questioning my life choices when a missing semicolon breaks everything! The architecture behind debugging, connecting and building networks under { 01} passionately shows my confidence in learning new hand on experiences. I believe in logics, software combines creativity and a bit of stubborness. 
 
-I like practical problems: taking a slow, repetitive, manual workflow and turning it into something reliable and automated.
+•Experience• 8+[Months]
 
 | | |
 |---|---|
@@ -58,7 +58,7 @@ I like practical problems: taking a slow, repetitive, manual workflow and turnin
 
 ## 🚀 Featured Work
 
-### 📄 Government Tender PDF Collection Automation
+### Government Tender PDF Collection Automation
 `Python` · `Playwright` · `Browser Automation`
 
 An automation workflow that collects government tender PDF documents from **multiple dynamic sources**, replacing repetitive manual collection.
@@ -69,12 +69,12 @@ An automation workflow that collects government tender PDF documents from **mult
 
 > *Built during startup work, so implementation details may be restricted.*
 
-### 🌐 Software & Web Development (Startup)
+### Software & Web Development (Startup)
 Worked on software and web projects in a startup environment, delivering against practical client and business requirements and applying programming and automation to real workflows.
 
 <br/>
 
-## 📈 Data Analysis Approach
+## Data Analysis Approach
 
 Good analysis starts with trustworthy data. Here is how I approach turning raw data into something people can act on:
 
@@ -88,7 +88,7 @@ Good analysis starts with trustworthy data. Here is how I approach turning raw d
 
 <br/>
 
-## 🔄 How I Think About Data Pipelines
+## How I Think About Data Pipelines
 
 The architecture I'm building toward as I move into Data Engineering:
 
@@ -104,7 +104,7 @@ flowchart LR
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 -  Python development and browser automation in a production-style workflow
 -  Writing efficient SQL and strengthening database fundamentals
@@ -117,7 +117,7 @@ flowchart LR
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
