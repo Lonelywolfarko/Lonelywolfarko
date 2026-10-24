@@ -25,8 +25,8 @@
 
 I am struggling with 99% caffeine,1% syntax error "418". Sitting before screen occasionally questioning my life choices when a missing semicolon breaks everything! The architecture behind debugging, connecting and building networks under { 01} passionately shows my confidence in learning new hand on experiences. I believe in logics, software combines creativity and a bit of stubborness. 
 
-• **Superpowers** • Python | SQL | Automation  
-• **Experience** • 8+ Months in Software Development
+• **Superpowers**  Python | SQL | Automation  
+• **Experience**  8+ Months in Software Development
 
 | | |
 |---|---|
