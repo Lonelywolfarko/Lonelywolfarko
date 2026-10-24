@@ -29,12 +29,12 @@ I like practical problems: taking a slow, repetitive, manual workflow and turnin
 
 | | |
 |---|---|
-| 🎯 **Primary focus** | Data Engineering |
-| 📈 **Data analysis** | Data cleaning · Exploratory analysis · SQL querying · Turning data into insights |
-| 💪 **Core strengths** | Python development · Browser automation · Web scraping |
-| 🔎 **Also interested in** | Technical data analysis · Data platforms |
-| 🎓 **Education** | B.E. in Electronics & Communication Engineering (2027) |
-| 🌱 **Currently learning** | Airflow · PySpark · Data warehousing · Cloud data platforms |
+|  **Primary focus** | Data Engineering |
+|  **Data analysis** | Data cleaning · Exploratory analysis · SQL querying · Turning data into insights |
+|  **Core strengths** | Python development · Browser automation · Web scraping |
+|  **Also interested in** | Technical data analysis · Data platforms |
+|  **Education** | B.E. in Electronics & Communication Engineering (2027) |
+|  **Currently learning** | Airflow · PySpark · Data warehousing · Cloud data platforms |
 
 <br/>
 
