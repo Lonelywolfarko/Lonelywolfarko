@@ -13,9 +13,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/developerarkomondal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arko03472@gmail.com&su=Opportunity%20for%20Arko%20Mondal"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/MondalArko39"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/developerarkomondal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arko03472@gmail.com&su=Opportunity%20for%20Arko%20Mondal"><img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/MondalArko39"><img src="https://img.shields.io/badge/X-Follow-1F6FEB?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
@@ -43,12 +43,12 @@ I like practical problems: taking a slow, repetitive, manual workflow and turnin
 
 | Area | Tools |
 |:--|:--|
-| **Languages & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-64748B?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Learning now** | ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-2563EB?style=flat-square) ![Warehousing](https://img.shields.io/badge/Data_Warehousing-475569?style=flat-square) |
+| **Languages & Data** | ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-334155?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-334155?style=flat-square&logo=numpy&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white) |
+| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-334155?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-334155?style=flat-square&logo=selenium&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-334155?style=flat-square) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white) |
+| **Learning now** | ![Airflow](https://img.shields.io/badge/Apache_Airflow-334155?style=flat-square&logo=apacheairflow&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-334155?style=flat-square&logo=apachespark&logoColor=white) ![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-334155?style=flat-square) ![Warehousing](https://img.shields.io/badge/Data_Warehousing-334155?style=flat-square) |
 
 </div>
 
@@ -193,11 +193,13 @@ Play in your browser: [2048](https://play2048.co/) · [Tetris](https://tetris.co
 
 I'm looking to connect with engineers, data professionals, and teams working on **data platforms, automation, and software engineering**. If you're hiring for a Data Engineering internship or entry-level role, I'd love to talk.
 
+📧 **Email:** arko03472@gmail.com *(copy it if the button doesn't open your mail app)*
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/developerarkomondal/"><img src="https://img.shields.io/badge/LinkedIn-developerarkomondal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:arko03472@gmail.com"><img src="https://img.shields.io/badge/Email-arko03472@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/MondalArko39"><img src="https://img.shields.io/badge/X-@MondalArko39-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/developerarkomondal/"><img src="https://img.shields.io/badge/LinkedIn-developerarkomondal-1F6FEB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arko03472@gmail.com&su=Opportunity%20for%20Arko%20Mondal"><img src="https://img.shields.io/badge/Email-arko03472@gmail.com-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/MondalArko39"><img src="https://img.shields.io/badge/X-@MondalArko39-1F6FEB?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=110&section=footer" alt="Footer" width="100%" />
 
